@@ -1,2 +1,0 @@
-# sunbeomk.github.io
-sunbeomk
