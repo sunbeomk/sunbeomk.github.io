@@ -36,6 +36,8 @@ Web page: [https://sunbeomk.github.io](https://sunbeomk.github.io)
 <br>
 ## Experiences
 ---
+2022　　　&nbsp;&nbsp;&nbsp;Research Assistant, Development of hmcdm R package for fitting hidden Markov Cognitive Diagnostic Models for Learning
+
 2020-2021　Researcher in BSC, Seoul, Korea
 
 2019　　　&nbsp;&nbsp;&nbsp;Teaching Assistant, Introduction to Psychology, SKKU
