@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Blogging
+title: Categories
 icon: fas fa-stream
 order: 2
 ---
