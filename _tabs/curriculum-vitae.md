@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
+Last Update: 06-10-2022
+
 ## Contact
 ---
 Department of Psychology
