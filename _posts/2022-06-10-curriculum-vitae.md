@@ -78,7 +78,7 @@ analysis. (Master’s thesis, Sungkyunkwan University, Seoul)
 Analysis]. Paper presented at the meeting of the Korean Society of Psychological Measurement and Assessment,
 Seoul, Korea.
 
-**Kwon, S.**,Jahng, S. (2019). Autoregressive Cross-lagged Model with Phantom Variables for Panel Data with a Missing Time Point. Poster session presented at the International Convention of Psychological Science in Paris,
+**Kwon, S.**, Jahng, S. (2019). Autoregressive Cross-lagged Model with Phantom Variables for Panel Data with a Missing Time Point. Poster session presented at the International Convention of Psychological Science in Paris,
 France.
 
 **Kwon, S.** (2017). 팬텀변수를 활용한 학업성적과 성취가치의 자귀회귀 교차지연 효과 검증
