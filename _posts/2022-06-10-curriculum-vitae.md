@@ -2,11 +2,12 @@
 title: Curriculum Vitae
 author: Sunbeom Kwon
 date: 2022-06-09 07:30:00 +0800
-categories: [Research, CV]
+categories: [-Research, CV]
 tags: [CV]
 math: true
 mermaid: true
 comments: false
+pin: true
 ---
 
 
@@ -18,7 +19,7 @@ University of Illinois at Urbana-Champaign
 
 603 East Daniel St., Champaign, IL 61820
 
-Email: sunbeom2@illinois.edu
+Email: [sunbeom2@illinois.edu](mailto:sunbeom2@illinois.edu)
 
 Web page: [https://sunbeomk.github.io](https://sunbeomk.github.io)
 
