@@ -52,7 +52,7 @@ Web page: [https://sunbeomk.github.io](https://sunbeomk.github.io)
 ---
 2022　　　&nbsp;&nbsp;&nbsp;Research Assistant, Department of Psychology, University of Illinois at Urbana-Champaign
 
-2021-2022　Fellowship Awards, Department of Psychology, University of Illinois at Urbana-Champaign
+2021-2022　University Fellowship, University of Illinois at Urbana-Champaign
 
 2019　　　&nbsp;&nbsp;&nbsp;Travel Grant, BK21 PLUS, Ministry of Education, South Korea
 
