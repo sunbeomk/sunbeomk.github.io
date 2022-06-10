@@ -20,7 +20,7 @@ Web page: [https://sunbeomk.github.io](https://sunbeomk.github.io)
 <br>
 ## Education
 ---
-2022-　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D in Quantitative Psychology, University of Illinois at Urbana-Champaign**
+2021-　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D in Quantitative Psychology, University of Illinois at Urbana-Champaign**
 
 2017-2020　&nbsp;&nbsp;**M.A in Psychology, Sungkyunkwan University**
 
