@@ -1,15 +1,8 @@
 ---
-title: Curriculum Vitae
-author: Sunbeom Kwon
-date: 2022-06-09 07:30:00 +0800
-categories: [-Research, CV]
-tags: [CV]
-math: true
-mermaid: true
-comments: false
-pin: true
+title: CV
+icon: fas fa-info-circle
+order: 1
 ---
-
 
 ## Contact
 ---
