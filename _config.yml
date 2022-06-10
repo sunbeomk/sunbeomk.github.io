@@ -17,7 +17,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -97,7 +97,8 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: sunbeomk/sunbeomk.github.io        # <gh-username>/<repo>
-    issue_term:   url | pathname | title
+    issue_term:   "pathname"
+  # url | pathname | title
   # Giscus options › https://giscus.app
   giscus:
     repo:             # <gh-username>/<repo>
