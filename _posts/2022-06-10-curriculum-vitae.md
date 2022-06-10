@@ -6,10 +6,12 @@ categories: [Research, CV]
 tags: [CV]
 math: true
 mermaid: true
+comments: false
 ---
 
 
 ## Contact
+---
 Department of Psychology
 
 University of Illinois at Urbana-Champaign
@@ -21,208 +23,63 @@ Email: sunbeom2@illinois.edu
 Web page: [https://sunbeomk.github.io](https://sunbeomk.github.io)
 
 
+<br>
 ## Education
-2022~      Ph.D in Quantitative Psychology, University of Illinois at Urbana-Champaign
-
-2017-2020  M.A in Psychology, Sungkyunkwan University
-
-2011-2015  B.A in Psychology and Statistics, Sungkyunkwan University
-
-
-
-
-## Titles
 ---
-# H1 - heading
+2022-　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D in Quantitative Psychology, University of Illinois at Urbana-Champaign**
 
-<h2 data-toc-skip>H2 - heading</h2>
+2017-2020　&nbsp;&nbsp;**M.A in Psychology, Sungkyunkwan University**
 
-<h3 data-toc-skip>H3 - heading</h3>
+2011-2015　&nbsp;&nbsp;**B.A in Psychology and Statistics, Sungkyunkwan University**
 
-<h4>H4 - heading</h4>
+
+<br>
+## Experiences
 ---
-<br>
+2020-2021　Researcher in BSC, Seoul, Korea
 
-## Paragraph
+2019　　　&nbsp;&nbsp;&nbsp;Teaching Assistant, Introduction to Psychology, SKKU
 
-I wandered lonely as a cloud
+2018　　　&nbsp;&nbsp;&nbsp;Teaching Assistant, Statistical Analysis in Psychoogy, SKKU
 
-That floats on high o'er vales and hills,
+2018　　　&nbsp;&nbsp;&nbsp;Teaching Assistant, Psychologycal Testing and Measurement, SKKU
 
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the trees,
-
-Fluttering and dancing in the breeze.
-
-## Lists
-
-### Ordered list
-
-1. Firstly
-2. Secondly
-3. Thirdly
-
-### Unordered list
-
-- Chapter
-  - Section
-    - Paragraph
-
-### Task list
-
-- [ ] TODO
-- [x] Completed
-- [ ] Defeat COVID-19
-  - [x] Vaccine production
-  - [ ] Economic recovery
-  - [ ] People smile again
-
-### Description list
-
-Sun
-: the star around which the earth orbits
-
-Moon
-: the natural satellite of the earth, visible by reflected light from the sun
-
-## Block Quote
-
-> This line shows the _block quote_.
-
-## Prompts
-
-> An example showing the `tip` type prompt.
-{: .prompt-tip }
-
-> An example showing the `info` type prompt.
-{: .prompt-info }
-
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
-
-> An example showing the `danger` type prompt.
-{: .prompt-danger }
-
-## Tables
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
-
-## Links
-
-<http://127.0.0.1:4000>
-
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
-
-## Images
-
-- Default (with caption)
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" }
-_Full screen width and center alignment_
 
 <br>
+## Scholarships
+---
+2022　　　&nbsp;&nbsp;&nbsp;Research Assistant, Department of Psychology, University of Illinois at Urbana-Champaign
 
-- Shadow
+2021-2022　Fellowship Awards, Department of Psychology, University of Illinois at Urbana-Champaign
 
-![Window shadow](/posts/20190808/window.png){: .shadow width="1548" height="864" style="max-width: 90%" }
-_shadow effect (visible in light mode)_
+2019　　　&nbsp;&nbsp;&nbsp;Travel Grant, BK21 PLUS, Ministry of Education, South Korea
 
-<br>
+2018-2019　Scholarship, BK21 PLUS, Ministry of Education, South Korea
 
-- Left aligned
+2018-2019　Teaching Assistant, Sungkyunkwan University
 
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 70%" .normal}
+2013-2014　Scholarship, Sungkyunkwan University ROTC
 
-<br>
-
-- Float to left
-
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .left}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
 
 <br>
+## Publications
+---
+**Kwon, S.** (2020). Effects of factor scaling constraints on model estimation in Bayesian confirmatory factor
+analysis. (Master’s thesis, Sungkyunkwan University, Seoul)
 
-- Float to right
-
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .right}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
 
 <br>
+## Presentations
+---
+**Kwon, S.**, Jahng, S. (2020). 베이지안 확인적 요인분석에서 요인 척도화 방법이 모형 추정에
+미치는 영향 [Effects of Factor Scaling Constraints on Model Estimation in Bayesian Confirmatory Factor
+Analysis]. Paper presented at the meeting of the Korean Society of Psychological Measurement and Assessment,
+Seoul, Korea.
 
-## Mermaid SVG
+**Kwon, S.**,Jahng, S. (2019). Autoregressive Cross-lagged Model with Phantom Variables for Panel Data with a Missing Time Point. Poster session presented at the International Convention of Psychological Science in Paris,
+France.
 
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
-```
-
-## Mathematics
-
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
-
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## Inline code
-
-This is an example of `Inline Code`.
-
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
-
-## Code block
-
-### Common
-
-```
-This is a common code snippet, without syntax highlight and line number.
-```
-
-### Specific Languages
-
-#### Console
-
-```console
-$ env |grep SHELL
-SHELL=/usr/local/bin/bash
-PYENV_SHELL=bash
-```
-
-#### Shell
-
-```bash
-if [ $? -ne 0 ]; then
-    echo "The command was not successful.";
-    #do the needful / exit
-fi;
-```
-
-### Specific filename
-
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography"
-```
-{: file='_sass/jekyll-theme-chirpy.scss'}
-
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+**Kwon, S.** (2017). 팬텀변수를 활용한 학업성적과 성취가치의 자귀회귀 교차지연 효과 검증
+[Testing Autoregressive Cross-lagged Effects between Academic Achievement and Achievement Values using
+Phantom Variables]. Poster session presented at the meeting of the Korean Society of Psychological
+Measurement and Assessment, Seoul, Korea.
