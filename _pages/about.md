@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. student in the Quantitative Psychology program at the University of Illinois, Urbana-Champaign. I earned my master's degree in Statistics from UIUC and a master's in Psychology from Sungkyunkwan University. I received bachelor's degrees in Psychology and Statistics from Sungkyunkwan University.
 
-I am interested in psychometrics and latent variable modeling. My current research includes item response theory, structural equation modeling, copula theory, Bayesian analysis, item-solving process data analysis, and AI evaluation.
+I am interested in psychometrics and latent variable modeling. My current research includes item response theory, structural equation modeling, copula theory, Bayesian analysis, problem-solving process data analysis, and AI evaluation.
