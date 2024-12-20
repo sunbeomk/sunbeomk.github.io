@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: sunbeom2@illinois.edu
 
 profile:
   align: right
