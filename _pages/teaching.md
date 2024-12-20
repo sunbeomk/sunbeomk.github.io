@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught as a lab instructor or teaching assistant.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+PSYC 490: Measurement and Test Development Lab (Fall 2022, 2023)
+
+* [R Programming for Psychometrics](https://bookdown.org/sz_psyc490/r4psychometics/)
+
+PSYC 301: Psychological Statistics (Spring 2024, 2023)
+
+PSYC 235: Introduction to Statistics (Fall 2024)
