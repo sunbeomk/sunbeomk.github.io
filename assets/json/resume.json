@@ -20,7 +20,7 @@
   "education": [
     {
       "order": 1,
-      "institution": "University of Illinois, Urbana-Champaign",
+      "institution": "University of Illinois Urbana-Champaign",
       "location": "Champaign, IL",
       "area": "Quantitative Psychology",
       "studyType": "Ph.D.",
@@ -30,7 +30,7 @@
     },
     {
       "order": 2,
-      "institution": "University of Illinois, Urbana-Champaign",
+      "institution": "University of Illinois Urbana-Champaign",
       "location": "Champaign, IL",
       "area": "Statistics",
       "studyType": "M.S.",
