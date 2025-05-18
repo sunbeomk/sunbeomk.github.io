@@ -65,7 +65,8 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "R / Rcpp",
+        "R",
+        "Rcpp",
         "Mplus",
         "Python",
         "SAS"
@@ -77,27 +78,28 @@
       "name": "Psychometrics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Item Response Theory",
-        "Response Times",
-        "Computerized Adaptive Testing"
+        "Item Response Theory (IRT)",
+        "Response-time Modeling",
+        "Computerized Adaptive Testing (CAT)",
+        "Process Data Analysis",
+        "Fairness & Validity in Automated Scoring"
       ]
     },
     {
       "name": "Latent Variable Modeling",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Factor Analysis",
-        "Structural Equation Modeling",
-        "Latent Class Analysis"
+        "Structural Equation Modeling (SEM)",
+        "Latent Class Mediation Analysis (LCMA)"
       ]
     },
     {
-      "name": "Applied Statistics",
+      "name": "Statistical & Computational Techniques",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Process Data Analysis",
         "Bayesian Analysis",
-        "Copula Modeling"
+        "Copula Modeling",
+        "Applied Statistics"
       ]
     }
   ]
