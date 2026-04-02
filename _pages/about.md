@@ -9,9 +9,7 @@ profile:
   image: Kwon.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-	<div style="margin-top: 10px;">
-      <a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-sm" style="width: 100%;" role="button">VIEW CV (PDF)</a>
-    </div>
+	<p><a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-sm" style="width: 100%; margin-top: 20px;" role="button">VIEW CV (PDF)</a></p>
     
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
