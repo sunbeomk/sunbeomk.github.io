@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 1
 redirect: /assets/pdf/Kwon_Sunbeom_CV.pdf
 redirect_to: /assets/pdf/Kwon_Sunbeom_CV.pdf

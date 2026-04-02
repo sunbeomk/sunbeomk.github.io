@@ -20,6 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. 
 
+[View my CV (PDF)](/assets/pdf/Kwon_Sunbeom_CV.pdf){:target="_blank" .btn .btn-sm .z-depth-0}
+
 I am broadly interested in **psychometrics** and **data science**. My current research focuses on three core objectives: 
 
 **1. Copula-based Latent Variable Models** I develop copula-based methods to improve measurement accuracy and enable hypothesis testing for non-linear and asymmetric dependence of latent variables. This overcomes traditional multivariate Gaussian assumptions, allowing for a more flexible and nuanced dependence structure.
