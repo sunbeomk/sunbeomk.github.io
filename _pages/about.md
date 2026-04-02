@@ -9,9 +9,9 @@ profile:
   image: Kwon.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Psychology Bldg</p>
-    <p>603 East Daniel St.</p>
-    <p>Champaign, IL 61820</p>
+	<div style="margin-top: 10px;">
+      <a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-sm" style="width: 100%;" role="button">VIEW CV (PDF)</a>
+    </div>
     
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,8 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. 
-
-<a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-md" role="button">VIEW MY CV (PDF)</a>
 
 I am broadly interested in **psychometrics** and **data science**. My current research focuses on three core objectives: 
 
