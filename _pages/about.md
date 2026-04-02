@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. 
 
-[View my CV (PDF)](/assets/pdf/Kwon_Sunbeom_CV.pdf){:target="_blank" .btn .btn-sm .z-depth-0}
+<a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-md" role="button">VIEW MY CV (PDF)</a>
 
 I am broadly interested in **psychometrics** and **data science**. My current research focuses on three core objectives: 
 
