@@ -18,8 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. 
-I am interested in psychometrics and latent variable modeling. My current research includes item response theory (IRT), response-time modeling, copula theory, fairness & validity in AI scoring, structural equation modeling (SEM), Bayesian analysis, and process data analysis.
+I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. 
 
-I earned an M.S. degree in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. I completed B.A. degrees in Psychology and Statistics at Sungkyunkwan University.
+I am broadly interested in **psychometrics** and **data science**. My current research focuses on three core objectives: 
+
+### 1. Copula-based Latent Variable Models
+I develop copula-based methods to improve measurement accuracy and enable hypothesis testing for non-linear and asymmetric dependence of latent variables. This overcomes the traditional multivariate Gaussian assumptions and allows for a more flexible and nuanced dependence structure among latent variables. 
+
+### 2. Integrating psychometrics and AI
+My work explores the bidirectional interaction between these two fields. I apply measurement theory and methods to evaluate the performance and fairness of AI systems. On the other hand, I apply modern AI techniques to improve the accuracy and computational efficiency of complex psychometric models. 
+
+### 3. Analyzing Complex Modern Testing Data
+I create frameworks for extracting meaningful insights from unstructured and noisy "process data," such as computer log files. These methods are designed to support robust statistical inference from information-rich data sources.
+
 
