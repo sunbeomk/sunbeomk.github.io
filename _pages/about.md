@@ -7,13 +7,12 @@ subtitle: sunbeom2@illinois.edu
 profile:
   align: right
   image: Kwon.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-	<p><a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-sm" style="width: 100%; margin-top: 20px;" role="button">VIEW CV (PDF)</a></p>
-    
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+  image_circular: false
+  more_info: '<a href="/assets/pdf/Kwon_Sunbeom_CV.pdf" target="_blank" class="btn btn-outline-primary btn-sm" style="width: 100%;">VIEW CV (PDF)</a>'
+
+news: false
+selected_papers: false
+social: true
 ---
 
 I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. 
@@ -25,4 +24,3 @@ I am broadly interested in **psychometrics** and **data science**. My current re
 **2. Integrating Psychometrics and AI** My work explores the bidirectional interaction between these fields: I apply measurement theory to evaluate the performance and fairness of AI systems, while also utilizing modern AI techniques to improve the accuracy and efficiency of complex psychometric models.
 
 **3. Analyzing Complex Modern Testing Data** I create frameworks for extracting meaningful insights from unstructured and noisy "process data," such as computer log files. These methods are designed to support robust statistical inference from information-rich, high-dimensional data sources.
-
