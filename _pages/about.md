@@ -15,12 +15,12 @@ selected_papers: false
 social: true
 ---
 
-I am a Ph.D. candidate in the Quantitative Psychology program at the University of Illinois Urbana-Champaign. I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and an M.A. in Psychology from Sungkyunkwan University. 
+Hello! I am a postdoctoral scholar in College of Education at the University of Washington. I earned a Ph.D. in Quantitative Psychology and an M.S. in Statistics from the University of Illinois Urbana-Champaign. 
 
-I am broadly interested in **psychometrics** and **data science**. My current research focuses on three core objectives: 
+I am broadly interested in **psychometrics** and **data science**. My current research focuses on: 
 
 **1. Copula-based Latent Variable Models** I develop copula-based methods to improve measurement accuracy and enable hypothesis testing for non-linear and asymmetric dependence of latent variables. This overcomes traditional multivariate Gaussian assumptions, allowing for a more flexible and nuanced dependence modeling.
 
 **2. Integrating Psychometrics and AI** My work explores the bidirectional interaction between these fields: I apply measurement theory and techniques to evaluate the performance and fairness of AI systems, while also utilizing modern AI techniques to improve the accuracy and efficiency of complex psychometric models.
 
-**3. Analyzing Complex Modern Testing Data** I create frameworks for extracting meaningful insights from unstructured and noisy "process data," such as computer log files. These methods support robust statistical inference from information-rich, high-dimensional data sources.
+**3. Analyzing Complex Modern Testing Data** I develop computational methods for extracting meaningful insights from information-rich, high-dimensional test data such as response time and problem-solving process data. 
