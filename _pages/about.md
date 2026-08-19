@@ -15,9 +15,9 @@ selected_papers: false
 social: true
 ---
 
-Hello! I am a postdoctoral scholar in College of Education at the University of Washington. I earned a Ph.D. in Quantitative Psychology and an M.S. in Statistics from the University of Illinois Urbana-Champaign. 
+Hello! I am a Postdoctoral Scholar in the College of Education at the University of Washington. I earned a Ph.D. in Quantitative Psychology and an M.S. in Applied Statistics from the University of Illinois Urbana-Champaign. 
 
-I am broadly interested in **psychometrics** and **data science**. My current research focuses on: 
+I am interested in **psychometrics** and **data science**. My current research focuses on: 
 
 **1. Copula-based Latent Variable Models** I develop copula-based methods to improve measurement accuracy and enable hypothesis testing for non-linear and asymmetric dependence of latent variables. This overcomes traditional multivariate Gaussian assumptions, allowing for a more flexible and nuanced dependence modeling.
 
